@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @southrussian
-- I'm an iOS developer 
-- Doing researches in electrical impedance tomography (EIT)
-- Also interested in Python - Django, ML
-- SwiftUI, ARKit, Networking, Metal, UI Design based on AHD Guidelines
+<h1 align="center">Hello world, <a href="https://vk.com/southrussian" target="_blank"> is here</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student.+St.Petersburg" alt="Typing SVG" /></a>
+
+- iOS development 
+- Researches in electrical impedance tomography (EIT)
+- Mobile + Medical
 
 <!---
 southrussian/southrussian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
