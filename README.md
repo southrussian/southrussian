@@ -1,8 +1,7 @@
 <h1 align="center">Hello world, I'm<a href="https://vk.com/south.russian" target="_blank"> southrussian</a> 
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Mobile+and+Cloud+Technologies.+St.Petersburg" alt="Typing SVG" /></a>
-<a>- iOS development: Swift, SwiftUI
-- Researches in electrical impedance tomography (EIT)</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Mobile+and+Cloud+Technologies.+St.Petersburg" alt="Typing SVG"/></a>
+iOS Developer ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
 <!---
